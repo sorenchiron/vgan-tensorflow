@@ -1,0 +1,3 @@
+[submodule "dcmall"]
+    path = datasets/hsimg
+    url = git@10.214.164.248:datasets/dcmall.git

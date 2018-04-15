@@ -1,0 +1,6 @@
+*.pyc
+checkpoint/
+logs/*
+datasets/*
+!/datasets/hsimg
+
